@@ -1,0 +1,11 @@
+{
+  "alert_id": "ALT-2026-8837",
+  "title": "Impossible travel detected for user account",
+  "user": "j.okafor@contoso.com",
+  "source_ip": "203.0.113.45",
+  "location": "Lagos, NG then Toronto, CA within 22 minutes",
+  "signal": "Sign-in from two geographically distant locations in a short window",
+  "failed_logins": 0,
+  "mfa_satisfied": true,
+  "raw_severity": "medium"
+}
